@@ -1,6 +1,8 @@
 # BoostCource 미션 수행내역 정리
 - 주관사 : [부스트코스](https://www.boostcourse.org/)
-https://cphinf.pstatic.net/mooc/20230905_159/16938950028324ylUI_PNG/%BA%CE%C4%DA_%C4%DA%C4%AA%BD%BA%C5%CD%B5%F0_DataScience2023_%B7%D1%B8%B5%BA%B8%B5%E5_0829.png?type=w760
+
+![image](https://github.com/NeatyNut/BoostCource_Mission/assets/89675001/dd01bd42-5954-477e-94f7-adc80652e0bf)
+
 ![image](https://github.com/NeatyNut/BoostCource_Mission/assets/89675001/6323f5e1-95da-407f-b54b-0ca696ef093e)
 
 
