@@ -1,4 +1,4 @@
-# BoostCource 미션 수행내역 정리
+# BoostCource 미션 수행내역 정리(개인수행 내역)
 - 주관사 : [부스트코스](https://www.boostcourse.org/)
 
 ![image](https://github.com/NeatyNut/BoostCource_Mission/assets/89675001/dd01bd42-5954-477e-94f7-adc80652e0bf)
